@@ -5,4 +5,4 @@ Software
 
 
 Main Folder to be downloaded to run the final project (developed until 05-01-25 for Presidency University Capstone Project Final Review) :
-1. Final-Project-Source-Code
+1. Final-Project-Source-Code (also Includes Final Review PPT , Final Report , Signed Documents etc)
