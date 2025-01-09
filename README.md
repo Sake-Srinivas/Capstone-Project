@@ -4,6 +4,5 @@ AI Powered Automated Patient Documentation and Prescription
 Software
 
 
-Main Files to be downloaded to run the base level project (developed until 27-11-24 for Presidency University Capstone Project Review 2) :
-1. app.py
-2. index.html
+Main Folder to be downloaded to run the final project (developed until 05-01-25 for Presidency University Capstone Project Final Review) :
+1. Final-Project-Source-Code
